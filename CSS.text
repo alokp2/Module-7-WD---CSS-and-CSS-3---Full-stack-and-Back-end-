@@ -1,0 +1,107 @@
+What are the benefits of using CSS? 
+
+They are various benefits of using css: First,it enhances the website speed
+due to the use of fewer line of code. Second, it would be tedious to apply style to every
+same tag if it used 10 times. CSS allows to use class and selector and many other properties to ehance the code without
+writing a lot of code.
+
+What are the disadvantages of CSS? 
+
+Compatibility issues. It may not be same compatibility with every browser. There is a lack of 
+security protection.Also,CSS can be confusing.
+
+What is the difference between CSS2 and CSS3? 
+
+Few new features are added such as responsive designing is supported in responsive design. CSS3 is faster
+than CSS2. CSS3 has animations and 3D transformations which was not available in CSS2.
+
+Name a few CSS style components?
+
+class selector, property,attribute
+
+What do you understand by CSS opacity? 
+
+CSS opacity is a property use to show the transparency of an image. we can use opacity to hide the content or make it faded image. 
+
+How can the background color of an element be changed?
+
+We can use css property background-color and set it to some color and it can be done in three ways of applying css: 
+using inline, internal, and external. For example, using internal css, we can take the element name with parenthesis and writing many 
+properties of css inside the parenthesis and all the impact will be on that particular element inside the style tag. 
+
+How can image repetition of the backup be controlled? 
+
+we can use the property background-repeat:no-repeat;
+
+What is the use of the background-position property? 
+
+Background position is a way to move multiple background images. In another way, it is used to set background image
+to a certain position.
+
+Which property controls the image scroll in the background? 
+
+background-attachment
+
+Why should background and color be used as separate properties? 
+
+Background-property is a complex property and using color together can increase the difficulty. 
+
+How to center block elements using CSS1? 
+
+using margin:auto;
+
+How to maintain the CSS specifications? 
+
+What are the ways to integrate CSS as a web page?
+
+Inline CSS, internal, and External CSS
+
+What is embedded style sheets? 
+
+Embedded style sheet allows us to define styles for a particular HTML document as a whole in one place. We use style tag and put required
+css properties inside. 
+
+What are the external style sheets? 
+
+we create a separate css file and link the file to html under the <head></head> to apply css. This is more useful in terms of organizing
+and when the css file is large. 
+
+What are the advantages and disadvantages of using external style sheets? 
+
+It is ways to organize as well as it is useful if the css file is large. Classes can be made for use on multiple HTML element 
+types in many forms of the site. The disadvantage will be: We will have to download an extra document. It is practical to use for small
+style definitions. 
+
+ What is the meaning of the CSS selector? 
+
+ A CSS selector selects a Html element that we want to style.
+
+ What are the media types allowed by CSS? 
+
+ What is the rule set?
+
+ The rule set is consists of multiple selectors and declarations. 
+
+Create Layouts
+
+.container p: First child:: First-letter         // selector: pseduo-class: pseudo- element
+{
+    color:          =>This is a declarations
+    margin:
+    padding:
+} 
+{} This is a declaration block
+
+
+
+
+
+
+
+
+
+
+
+
+
+
